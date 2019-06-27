@@ -1,0 +1,4 @@
+
+Adding new line
+
+This a test file contained in git project
